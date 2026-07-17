@@ -9,6 +9,6 @@ Manual installation:
 1. Download and extract the ZIP.
 2. Run **1 - Install Companion.cmd**.
 3. Open `chrome://extensions` and enable **Developer mode**.
-4. Click **Load unpacked** and select the included **extension** folder.
+4. Click **Load unpacked** and select the extracted Download Everything folder—the folder containing `manifest.json`.
 
 Download Everything is intended only for videos the user owns or is legally authorized to save. It does not bypass DRM, private access, memberships, or account restrictions.
